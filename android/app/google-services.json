@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699386455473",
+    "project_id": "morrsy-a7c26",
+    "storage_bucket": "morrsy-a7c26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699386455473:android:0c03d7f67f9da7107a8990",
+        "android_client_info": {
+          "package_name": "com.example.morrsy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmuZnqzvR4W-hpYl0V2QC-BFo8unVkxto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
